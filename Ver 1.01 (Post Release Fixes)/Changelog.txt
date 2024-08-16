@@ -1,0 +1,5 @@
+removed sandbox tools being on by default
+nerfed molten mass (reduced rage radiance level and removed lava barrier)
+fixed up navmesh in multiple arenas
+blood pools in the second arena can kill the ferryman
+changed the position of a virtue in the third arena to prevent cheesing
