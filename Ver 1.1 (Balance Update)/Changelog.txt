@@ -1,9 +1,10 @@
-removed sandbox tools being on by default
-nerfed molten mass (reduced rage radiance level and removed lava barrier)
-fixed up navmesh in multiple arenas
-blood pools in the second arena can kill the ferryman
-changed the position of a virtue in the third arena to prevent cheesing
+Nerfed molten mass (reduced rage radiance level and removed lava barrier)
+Fixed up navmesh in multiple arenas
+Blood pools in the second arena can kill the ferryman
+Changed the position of a virtue in the third arena to prevent cheesing
 Rebalanced the first arena
 Remade the first wave of the third encounter
 Added more geometry to the final arena
-
+Changed position of the yellow orb in the 4th arena, and added a message relating to the challenge portion of the level
+Added some more detail to parts of the level
+Changed the end sequence for the level to prevent softlocks
