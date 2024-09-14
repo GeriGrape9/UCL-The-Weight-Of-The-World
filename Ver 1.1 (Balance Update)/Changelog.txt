@@ -7,4 +7,4 @@ Remade the first wave of the third encounter
 Added more geometry to the final arena
 Changed position of the yellow orb in the 4th arena, and added a message relating to the challenge portion of the level
 Added some more detail to parts of the level
-Changed the end sequence for the level to prevent softlocks
+Changed the end sequence for the level to prevent softlocking
